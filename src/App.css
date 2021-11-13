@@ -1,0 +1,19 @@
+body {
+  background-image: url(https://cdn2.f-cdn.com/contestentries/1533674/32119186/5d26069178823_thumb900.jpg);
+
+  background-size: 100% 100%;
+}
+.hanendesign {
+  test-align: center;
+}
+
+h1 {
+  color: aliceblue;
+}
+.container {
+  font-size: larger;
+  text-align: center;
+  width: 50%;
+  background-color: turquoise;
+  margin: auto;
+}
